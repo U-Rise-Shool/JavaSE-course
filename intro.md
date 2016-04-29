@@ -18,7 +18,7 @@
 - <a href="http://sernam.ru/book_java.php">Основы программирования на Java: учебное пособие</a>
 
 ## Домашнее задание 
-- Установите ПО: git, Java 8, IntelliJ IDEA
+- Установите ПО: Git, Java 8, IntelliJ IDEA
 - Создайте локальную копию нашего проекта: `git clone https://github.com/U-Rise-Shool/JavaSE-app.git`
 > в результате у вас должен появится каталог `JavaSE-app`
 
