@@ -21,7 +21,7 @@
 > попробуйте делать в IntelliJ IDEA, если будут вопросы с установкой или использованием, пишите в телеграм
 
 - Создайте локальную копию нашего проекта: `git clone https://github.com/U-Rise-Shool/JavaSE-app.git`
-> в рузультате у вас должен появится каталог `JavaSE-app`
+> в результате у вас должен появится каталог `JavaSE-app`
 
 - В IntelliJ IDEA создайте новый проект, выбрав каталог `JavaSE-app`
 ![image](https://cloud.githubusercontent.com/assets/18701152/14917746/38c4a20a-0e29-11e6-8985-c57911da57c4.png)
