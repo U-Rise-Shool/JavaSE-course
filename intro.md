@@ -20,3 +20,13 @@
 ## Домашнее задание 
 > попробуйте делать в IntelliJ IDEA, если будут вопросы с установкой или использованием, пишите в телеграм
 
+- Создайте локальную копию нашего проекта: `git clone https://github.com/U-Rise-Shool/JavaSE-app.git`
+> в рузультате у вас должен появится каталог `JavaSE-app`
+
+- В IntelliJ IDEA создайте новый проект, выбрав каталог `JavaSE-app`
+![image](https://cloud.githubusercontent.com/assets/18701152/14917746/38c4a20a-0e29-11e6-8985-c57911da57c4.png)
+![image](https://cloud.githubusercontent.com/assets/18701152/14917800/71887238-0e29-11e6-9830-e557901892b4.png)
+![image](https://cloud.githubusercontent.com/assets/18701152/14917769/5025e29c-0e29-11e6-9c7b-70b82966ccbe.png)
+
+- Реализуйте класс `ArrayStorage`: хранение резюме на основе массива.
+- Протестируйте реализацию, запустив MainArray.main: в IDEA слева на полях зеленая стрелка.
