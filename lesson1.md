@@ -43,7 +43,7 @@
 - `git push -u origin master`
 
 ## Насторойка проекта. Выполнение домашнего задания в ветке HW1. Debug.
-- <a href="http://info.javarush.ru/idea_help/2014/01/22/Руководство-пользователя-IntelliJ-IDEA-Отладчик-.html">Отладчик IntelliJ IDEA</a>
+- <a href="http://learn.javajoy.net/debug-intellij-idea">Отладчик IntelliJ IDEA</a>
 - <a href="http://jeeconf.com/archive/jeeconf-2013/materials/intellij-idea/">Эффективная работа с кодом в IntelliJ IDEA</a>
 
 ## Домашнее задание
