@@ -28,9 +28,9 @@
   - <a href="http://www.intuit.ru/studies/courses/16/16/lecture/27111?page=4">Ссылочные типы</a>
   - <a href="http://www.intuit.ru/studies/courses/16/16/lecture/27113?page=2">Пакеты</a>
   - <a href="http://www.intuit.ru/studies/courses/16/16/lecture/27115">Модификаторы доступа. Область Видимости.</a>
-  - <a href="http://www.intuit.ru/studies/courses/16/16/lecture/27113?page=4">Соглашения по именованию.</a>
 
 ## Домашнее задание
+- Прочитать <a href="http://www.intuit.ru/studies/courses/16/16/lecture/27113?page=4">Соглашения по именованию.</a>
 - Реализовать `ArrayStorage.update`
 - Сделать проверки: в `update/delete/get` - резюме есть в storage, в `save`- нет в storage: `System.out.println("ERROR")`.
 - Избавится от дублирования в коде `ArrayStorage`
