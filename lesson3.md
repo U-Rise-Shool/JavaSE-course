@@ -1,24 +1,21 @@
 # <a href="http://java.u-rise.com/">U-Rise. Онлайн Курс по Java SE</a>.
 # Третье занятие
 
-##  Объектная модель в Java.
+## Разбор Домашнего Задания-2
+
+## Объектная модель в Java
+- <a href="http://www.intuit.ru/studies/courses/16/16/lecture/27119">static</a>
 - <a href="http://www.intuit.ru/studies/courses/16/16/lecture/27129?page=1">Object. Контракт equals/hashCode</a>
-- <a href="http://www.intuit.ru/studies/courses/16/16/lecture/27119">Объектная модель в Java: static</a>
-- <a href="http://www.intuit.ru/studies/courses/16/16/lecture/27119?page=2">this и super</a>
 - <a href="http://www.intuit.ru/studies/courses/16/16/lecture/27119?page=3">Интерфейсы</a>
-- <a href="http://www.intuit.ru/studies/courses/16/16/lecture/27119?page=4">Полиморфизм, abstract</a>, <a href="https://ru.wikipedia.org/wiki/Шаблонный_метод_(шаблон_проектирования)">Шаблонный метод</a>
-- Блоки инициализации. InstanceOf. valueOf.
+- <a href="http://www.intuit.ru/studies/courses/16/16/lecture/27119?page=4">Полиморфизм, abstract</a>
 
-## Работа со строками.
-- <a href="http://easy-code.ru/lesson/java-string">Строки в Java</a>. Кодировка.</li>
-- <a href="http://easy-code.ru/lesson/manipulating-characters-string-java">Управление строками, функции для работы со строками в Java.</a>
-- StringBuilder vs StringBuffer
-- <a href="http://java67.blogspot.ru/2014/08/difference-between-string-literal-and-new-String-object-Java.html">String literal pool</a>
-
-### Исключения
-  - <a href="http://www.intuit.ru/studies/courses/16/16/lecture/27123?page=5">Исключения (Exceptions)</a>.
-  - "Java. Эффективное программирование" Джошуа Блох: Исключения.
-
-![image](https://cloud.githubusercontent.com/assets/18701152/15581283/4c2f5348-2374-11e6-8fd2-e4de02d2c389.png)
+## Сложность алгоритмов
+- <a href="https://tproger.ru/translations/algorithms-and-data-structures">Алгоритмы и структуры данных для начинающих: сложность алгоритмов</a>
+- <a href="https://drive.google.com/file/d/0B9Ye2auQ_NsFNEJWRFJkVDA3TkU/view">Time complexity</a>
+- <a href="https://ru.wikipedia.org/wiki/Временная_сложность_алгоритма">Временная сложность алгоритма</a>
+- <a href="https://ru.wikipedia.org/wiki/Вычислительная_сложность">Вычислительная сложность</a>
+- <a href="https://ru.wikipedia.org/wiki/Шаблонный_метод_(шаблон_проектирования)">Шаблонный метод</a>
 
 ## Домашнее задание
+- Закончить реализацию `AbstractArrayStorage`, `ArrayStorage`, `SortedArrayStorage`
+- Сделать проверку `ArrayStorage.update`
