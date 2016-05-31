@@ -8,8 +8,6 @@
 
 ##  Обзор инструментов и технологий.
 - <a href="http://zeroturnaround.com/rebellabs/java-tools-and-technologies-landscape-for-2014/">Обзор популярности инструментов и технологий Java за 2014г.</a>
-- <a href="https://plumbr.eu/blog/java/java-version-and-vendor-data-analyzed-2016-edition">Статистика Java версий и производителей 2016г.</a>
-- <a href="https://dzone.com/articles/most-popular-java-ee-servers-2016-edition">Статистика по Java EE Servers, 2016г.</a>
 -  Дополнительно:
    - <a href="http://www.quizful.net/post/automated-builds-java">Автоматизированные сборки в Java</a>
 
