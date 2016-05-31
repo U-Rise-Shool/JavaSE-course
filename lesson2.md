@@ -32,6 +32,6 @@
 ## Домашнее задание
 - Прочитать <a href="http://www.intuit.ru/studies/courses/16/16/lecture/27113?page=4">Соглашения по именованию.</a>
 - Реализовать `ArrayStorage.update`
-- Сделать проверки: в `update/delete/get` - резюме есть в storage, в `save`- нет в storage: `System.out.println("ERROR")`.
-- Сделть в save проверку на переполнение
+- Сделать проверки: в `update/delete/get` - резюме есть в storage, в `save`- нет в storage: `System.out.println("Resume ...")`.
+- Сделть в save проверку на переполнениеe: `System.out.println("...")`.
 - Избавится от дублирования в коде `ArrayStorage`
