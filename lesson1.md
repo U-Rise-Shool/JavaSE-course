@@ -37,11 +37,11 @@
 ## Настройка окружения
 - <a href="https://github.com/JavaOPs/topjava/wiki/IDEA">Idea Wiki</a> (поставить кодировку UTF-8, поменять фонт по умолчанию на DejaVu)
 - git занести в переменная окружения PATH, перезапустить cmd
-- Создайте локальную копию нашего проекта: `git clone https://github.com/U-Rise-Shool/JavaSE-app.git`
-- Перейти в каталог проекта: `cd JavaSE-app`
+- Создайте локальную копию нашего проекта: `git clone https://github.com/School-IT-Programm/resume-storage.git`
+- Перейти в каталог проекта: `cd resume-storage`
 - `git remote -v`
-- `git remote set-url origin https://github.com/U-Rise-Shool/JavaSE-app.git` - настройка pull
-- `git remote set-url --push origin https://github.com/YouGitHub/YourRepo.git` - настройка push
+- `git remote set-url origin https://github.com/School-IT-Programm/resume-storage.git` - настройка pull
+- `git remote set-url --push origin https://github.com/[YouGitHub/YourRepo].git` - настройка push
 - `git push -u origin master`
 
 ## Насторойка проекта. Ветка HW1. Debug
