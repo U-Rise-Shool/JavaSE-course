@@ -5,7 +5,9 @@
 - <a href="https://ru.wikipedia.org/wiki/Мифический_человеко-месяц">Книга: Мифический человеко-месяц</a>
 - <a href="https://dou.ua/forums/topic/14015/">Методологии разработки ПО</a>
 - <a href="https://habrahabr.ru/company/edison/blog/269789/">Ещё раз про семь основных методологий разработки</a>
-- <a href="http://zeroturnaround.com/rebellabs/java-tools-and-technologies-landscape-for-2014/">Обзор популярности инструментов и технологий Java за 2014 г.</a>
+
+##  Обзор инструментов и технологий.
+- <a href="http://zeroturnaround.com/rebellabs/java-tools-and-technologies-landscape-for-2014/">Обзор популярности инструментов и технологий Java за 2014г.</a>
 -  Дополнительно:
    - <a href="http://www.quizful.net/post/automated-builds-java">Автоматизированные сборки в Java</a>
 
@@ -35,11 +37,11 @@
 ## Настройка окружения
 - <a href="https://github.com/JavaOPs/topjava/wiki/IDEA">Idea Wiki</a> (поставить кодировку UTF-8, поменять фонт по умолчанию на DejaVu)
 - git занести в переменная окружения PATH, перезапустить cmd
-- Создайте локальную копию нашего проекта: `git clone https://github.com/U-Rise-Shool/JavaSE-app.git`
-- Перейти в каталог проекта: `cd JavaSE-app`
+- Создайте локальную копию нашего проекта: `git clone https://github.com/School-IT-Programm/resume-storage.git`
+- Перейти в каталог проекта: `cd resume-storage`
 - `git remote -v`
-- `git remote set-url origin https://github.com/U-Rise-Shool/JavaSE-app.git` - настройка pull
-- `git remote set-url --push origin https://github.com/YouGitHub/YourRepo.git` - настройка push
+- `git remote set-url origin https://github.com/School-IT-Programm/resume-storage.git` - настройка pull
+- `git remote set-url --push origin https://github.com/[YouGitHub/YourRepo].git` - настройка push
 - `git push -u origin master`
 
 ## Насторойка проекта. Ветка HW1. Debug
@@ -47,7 +49,7 @@
 - <a href="http://jeeconf.com/archive/jeeconf-2013/materials/intellij-idea/">Эффективная работа с кодом в IntelliJ IDEA</a>
 
 ## Домашнее задание
-- Реализуйте класс `ArrayStorage`: хранение резюме на основе массива. Хранить все резюме в начале storage (без дырок null), чтобы не перебирать каждый раз все 10000 элементов.
+- Модифицировать класс `ArrayStorage`: хранить все резюме в начале storage (без дырок null), чтобы не перебирать каждый раз все 10000 элементов.
 ```
 Хранеие резюме в storage (от 0 до size-1 элементов null нет):
 
@@ -55,5 +57,4 @@ r1, r2, r3,..., rn, null, null,..., null
 <----  size ----->
 <----  storage.length   --------------->
 ```
-- Протестируйте реализацию, запустив MainArray.main(): в IDEA слева на полях зеленая стрелка.
 - Посмотреть на класс `Arrays`. Там есть полезные вещи, которые могут упростить код `ArrayStorage`.
