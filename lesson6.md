@@ -2,6 +2,7 @@
 # Шестое занятие
 
 ## Разбор Домашнего Задания-5
+- <a href="https://habrahabr.ru/post/104231/">Преобразования Integer и int</a>
 
 ## Iterator / Iterable. Вложенные, внутренние, локальные и анонимные классы.
 - <a href="http://www.javenue.info/post/101">Iterator / Iterable</a>.
