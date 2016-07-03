@@ -14,7 +14,7 @@
 - <a href="http://devcolibri.com/4274#t9">Встроенные функциональные интерфейсы.</a>
 
 ## Домашнее задание
-- Рефакторинг: в конструктор `Resume` сделать вместо `String uuid` тип `java.util.UUID` (Ctrl+F6 на конструкторе) и внести второй параметр `fullName` 
+- Рефакторинг: в конструктор `Resume` сделать вместо `String uuid` тип `java.util.UUID` (Ctrl+Shift+F6 на поле uuid) и внести второй параметр `fullName` 
 - Сделать рефакторинг тестов: `saveOverflow` должно быть только для Array реализаций.
 - Сделать рефакторинг всех реализаций `Storage`: заменить метод `Resume[] getAll()` на `List<Resume> getAllSorted()`
 - Реализовать до конца `MapUuidStorage`. Подумать что еще может быть search key в реализации на основе Map.
