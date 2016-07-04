@@ -8,13 +8,13 @@
 - <a href="http://developer.alexanderklimov.ru/android/java/generic.php">Обобщения (Generic)</a>
 - <a href="http://docs.oracle.com/javase/tutorial/java/generics/restrictions.html">Ограничения.</a>
 
-## Enum
-- <a href="http://easy-code.ru/lesson/enum-types-java">Перечисляемые типы (enum) в Java</a>
-
 ## Логирование
  - <a href="https://habrahabr.ru/post/130195/">Логирование в Java / quick start</a>
  - <a href="http://skipy.ru/useful/logging.html">Ведение лога приложения</a>
  - <a href="http://habrahabr.ru/post/113145/">Java Logging: история кошмара</a>
+
+## Enum
+- <a href="http://easy-code.ru/lesson/enum-types-java">Перечисляемые типы (enum) в Java</a>
 
 ## Домашнее задание: сделать объектную модель резюме (диаграмма и классы).
 <a href="http://u-rise.com/teacherofjava.pdf">Образец резюме (делаем упрощенно)</a>
