@@ -1,7 +1,7 @@
 # <a href="http://java.u-rise.com/">U-Rise. Онлайн Курс по Java SE</a>.
 # Седьмое занятие
 
-## Разбор Домашнего Задания-6
+## ![Разбор Домашнего Задания-6](lesson6.md#Домашнее-задание)
 
 ## Параметризация. Стирание типов.
 - <a href="http://www.quizful.net/post/java-generics-tutorial">Дженерики (Java, обучающая статья)</a>
