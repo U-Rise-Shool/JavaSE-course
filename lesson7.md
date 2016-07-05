@@ -15,11 +15,13 @@
 - <a href="http://skipy.ru/useful/logging.html">Ведение лога приложения</a>
 - <a href="http://habrahabr.ru/post/113145/">Java Logging: история кошмара</a>
 
-## Enum, Доменный объект
+## Синглетон, Enum
+- <a href="https://ru.wikipedia.org/wiki/Одиночка_(шаблон_проектирования)">Одиночка (шаблон проектирования)</a>
 - <a href="http://easy-code.ru/lesson/enum-types-java">Перечисляемые типы (enum) в Java</a>
-- <a href="https://ru.wikipedia.org/wiki/Доменный_объект">Доменный объект</a>
 
 ## Домашнее задание: 
+<a href="https://ru.wikipedia.org/wiki/Доменный_объект">Доменный объект</a>
+
 Cделать объектную модель резюме (диаграмма и классы). <a href="http://u-rise.com/teacherofjava.pdf">Образец резюме</a> (делаем упрощенно)
   - Делать только классы, включаемые в Resume. Resume - главный класс. В него все включается (композиция - строгий вид агрегации).
   - Схожие по структуре и функциональности сущности делаем одним классом.
