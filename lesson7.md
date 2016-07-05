@@ -15,8 +15,9 @@
 - <a href="http://skipy.ru/useful/logging.html">Ведение лога приложения</a>
 - <a href="http://habrahabr.ru/post/113145/">Java Logging: история кошмара</a>
 
-## Enum
+## Enum, Доменный объект
 - <a href="http://easy-code.ru/lesson/enum-types-java">Перечисляемые типы (enum) в Java</a>
+- <a href="https://ru.wikipedia.org/wiki/Доменный_объект">Доменный объект</a>
 
 ## Домашнее задание: 
 Cделать объектную модель резюме (диаграмма и классы). <a href="http://u-rise.com/teacherofjava.pdf">Образец резюме</a> (делаем упрощенно)
