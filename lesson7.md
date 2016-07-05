@@ -9,6 +9,8 @@
 - <a href="http://docs.oracle.com/javase/tutorial/java/generics/restrictions.html">Ограничения.</a>
 
 ## Логирование
+-  <a href="https://logging.apache.org/">Log4J (Apache logging)</a>
+-  <a href="http://www.vogella.com/tutorials/Logging/article.html">Java Logging API - Tutorial</a>
  - <a href="https://habrahabr.ru/post/130195/">Логирование в Java / quick start</a>
  - <a href="http://skipy.ru/useful/logging.html">Ведение лога приложения</a>
  - <a href="http://habrahabr.ru/post/113145/">Java Logging: история кошмара</a>
