@@ -11,7 +11,6 @@
  - <a href="http://www.intuit.ru/studies/courses/16/16/lecture/27133">Пакет java.io</a>
  - <a href="http://ru.wikipedia.org/wiki/Декоратор_(шаблон_проектирования)">Паттерн Декоратор</a>.
  - <a href="http://www.intuit.ru/studies/courses/16/16/lecture/27133?page=4">Классы Reader и Writer.</a>
- - <a href="https://habrahabr.ru/post/269667/">Чтения строк из файла</a>
  - Реализация `Storage` используя `DataInputStream/DataOutputStream`.
 
 ## Домашнее задание
