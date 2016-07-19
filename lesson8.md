@@ -1,7 +1,7 @@
 # <a href="http://java.u-rise.com/">U-Rise. Онлайн Курс по Java SE</a>.
 # Восьмое занятие
 
-## Разбор Домашнего Задания-7: объектная модель резюме
+## Разбор Домашнего Задания-7: объектная модель <a href="http://u-rise.com/teacherofjava.pdf">резюме</a>
 
 ## Работа с датами и временем
 - <a href="http://www.intuit.ru/studies/courses/16/16/lecture/27131?page=1">Класс Date, Calendar, TimeZone</a>
