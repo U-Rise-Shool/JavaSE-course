@@ -5,6 +5,7 @@
 
 ## Работа с датами и временем
 - <a href="http://www.intuit.ru/studies/courses/16/16/lecture/27131?page=1">Класс Date, Calendar, TimeZone</a>
+- <a href="http://www.joda.org/joda-time">http://www.joda.org/joda-time</a>
 - <a href="https://github.com/winterbe/java8-tutorial#date-api">Java 8 Date API</a>
 
 ## Работа с файлами. Ввод/вывод
