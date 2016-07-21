@@ -14,14 +14,8 @@
  - Работа с ресурсами. <a href="https://habrahabr.ru/post/178405/">Правильно освобождаем ресурсы в Java</a>
  - <a href="http://info.javarush.ru/translation/2013/08/19/Java-7-try-with-resources.html">Java 7 try-with-resources</a>
 
-## Ввод/вывод
- - <a href="http://www.intuit.ru/studies/courses/16/16/lecture/27133">Пакет java.io</a>
- - <a href="http://ru.wikipedia.org/wiki/Декоратор_(шаблон_проектирования)">Паттерн Декоратор</a>.
- - <a href="http://www.intuit.ru/studies/courses/16/16/lecture/27133?page=4">Классы Reader и Writer.</a>
- - Реализация `Storage` используя `DataInputStream/DataOutputStream`.
-
 ## Домашнее задание
 - Переделать модель резюме: учесть, что на одной работе (в одном учебном заведении) можно работать/ учиться в разные периоды и при этом имя организации не дублируется
 - Сделать рекурсивный обход и вывод имени файлов в каталогах и подкаталогах (корневой каталог- ваш проект)
 - Заполнить в `AbstractStorageTest` резюме данными
-- Выделить `AbstractFileStorage` и реализовать `DataStreamStorage.doCopyAll()` и `size()`
+- Реализовать `AbstractFileStorage`, базовый класс для хранения резюме в файлах.
