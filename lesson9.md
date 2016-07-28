@@ -17,5 +17,6 @@
 - <a href="https://habrahabr.ru/post/269667/">Чтения строк из файла</a>
 
 ## Домашнее задание
+- Сделать рекурсивный вывод каталогов с отступом
 - Реализовать Storage через java.nio.file.Path.
 - Сделать возможным выбор меджу FileStorage и PathStorage для сериализации через ObjectStream.
