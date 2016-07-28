@@ -4,13 +4,13 @@
 ## Разбор Домашнего Задания-8:
 
 ## Ввод/вывод
- - <a href="http://www.intuit.ru/studies/courses/16/16/lecture/27133">Пакет java.io</a>
- - <a href="http://ru.wikipedia.org/wiki/Декоратор_(шаблон_проектирования)">Паттерн Декоратор</a>.
- - <a href="http://www.intuit.ru/studies/courses/16/16/lecture/27133?page=4">Классы Reader и Writer.</a>
+- <a href="http://www.intuit.ru/studies/courses/16/16/lecture/27133">Пакет java.io</a>
+- <a href="http://ru.wikipedia.org/wiki/Декоратор_(шаблон_проектирования)">Паттерн Декоратор</a>.
+- <a href="http://www.intuit.ru/studies/courses/16/16/lecture/27133?page=4">Классы Reader и Writer.</a>
  
- ## Сериализация
- - <a href="http://www.intuit.ru/studies/courses/16/16/lecture/27133?page=3">Сериализация объектов (serialization)</a>
- - Реализация Storage используя <a href="https://habrahabr.ru/post/60317/">сериализацию</a>.
+## Сериализация
+- <a href="http://www.intuit.ru/studies/courses/16/16/lecture/27133?page=3">Сериализация объектов (serialization)</a>
+- Реализация Storage используя <a href="https://habrahabr.ru/post/60317/">сериализацию</a>.
  
 ## NIO
 - <a href="http://www.quizful.net/post/java-nio-tutorial">NIO Java 7</a>
