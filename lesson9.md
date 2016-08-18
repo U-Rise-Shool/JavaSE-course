@@ -16,6 +16,9 @@
 - <a href="http://www.quizful.net/post/java-nio-tutorial">NIO Java 7</a>
 - <a href="https://habrahabr.ru/post/269667/">Чтения строк из файла</a>
 
+## Основы Java 8 Stream API
+- <a href="http://devcolibri.com/4274#t7">Потоки</a>
+
 ## Домашнее задание
 - Сделать рекурсивный вывод каталогов с отступом
 - Реализовать Storage через java.nio.file.Path.
