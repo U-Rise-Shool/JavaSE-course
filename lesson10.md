@@ -5,6 +5,7 @@
 
 ## Формат XML. Работа с XML в Java
 - <a href="http://www.duct-tape-architect.ru/?p=315">XML формат и технологии</a>
+- Wiki: <a href="https://ru.wikipedia.org/wiki/XML">XML</a>, <a href="https://ru.wikipedia.org/wiki/XSL">XSL</a> , <a href="https://ru.wikipedia.org/wiki/SAX">SAX</a>, <a href="https://en.wikipedia.org/wiki/StAX">StAX</a>, <a href="https://ru.wikipedia.org/wiki/Java_Architecture_for_XML_Binding">JAXB</a>
 - <a href="http://www.vogella.com/tutorials/JavaXML/article.html">Работа с XML в Java</a>. Реализация хранения в XML. 
  
 ## JSON
