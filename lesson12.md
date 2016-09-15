@@ -1,6 +1,8 @@
 # <a href="http://java.u-rise.com/">U-Rise. Онлайн Курс по Java SE</a>.
 # Двенадцатое занятие
 
+## Разбор Домашнего Задания-11: реализация dead lock.
+
 ## java.util.concurrent
 -  <a href="http://habrahabr.ru/company/luxoft/blog/157273/">Обзор java.util.concurrent.*</a></li>
 - <a href="https://en.wikipedia.org/wiki/Compare-and-swap">Compare-and-swap</a>
