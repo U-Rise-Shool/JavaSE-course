@@ -25,4 +25,4 @@
 - Доделать `SqlStorage` без контактов и секций.
   - Для работы с DB надо в lib и проект добавить <a href="http://repo1.maven.org/maven2/org/postgresql/postgresql/9.4.1211.jre7">драйвер базы данных</a>
   - Запустить `SqlStorageTest`  (в `AbstractStorageTest` контакты и секции закоменченны), креденшелы к базе взять из `Config`
-- Вынести общий код (`getConnection(), prepareStatement, catch SQLException`) в класс SqlHelper.
+- Вынести общий код (`getConnection(), prepareStatement, catch SQLException`) в класс `SqlHelper`.
