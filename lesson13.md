@@ -17,14 +17,12 @@
 - <a href="http://ru.wikipedia.org/wiki/Java_Database_Connectivity">JDBC</a>. <a href="http://www.developersbook.com/jdbc/interview-questions/jdbc-interview-questions-faqs.php">JDBC Architecture</a>.
 - ConnectionFactory. Реализация SqlStorage.
 - Ресурсы:
+    - <a href="http://www.ozon.ru/context/detail/id/19383907/">Книга: Семь баз данных за семь недель. Введение в современные базы данных и идеологию NoSQL</a>
     - <a href="http://devcolibri.com/477">Работа с базами данных с помощью JDBC драйвера</a>
     - <a href="https://www.youtube.com/playlist?list=PLIU76b8Cjem5qdMQLXiIwGLTLyUHkTqi2">Уроки по JDBC</a>
 
 ### ![hw](https://cloud.githubusercontent.com/assets/13649199/13672719/09593080-e6e7-11e5-81d1-5cb629c438ca.png) Домашнее задание HW13
-- Доделать `SqlStorage` без секций.
-  - Тк. `SqlStorage` реализуем пока без секций, в `ResumeTestData` закомментарил секции.
-  - Креденшелы к DB задаются в `src\webapp.properties`
+- Доделать `SqlStorage` без контактов и секций.
   - Для работы с DB надо в проект и артефакты добавить нужный драйвер базы данных: <a href="http://repo1.maven.org/maven2/org/postgresql/postgresql/9.4.1211.jre7">Postgres driver в центральном maven репозитории</a>
-  - Запустить `SqlStorageTest`
-
+  - Запустить `SqlStorageTest`  (в `AbstractStorageTest` контакты и секции закоменченны), креденшелы к базе взять из `Config`
 - Вынести общий код (`getConnection(), prepareStatement, catch SQLException`) в класс SqlHelper.
