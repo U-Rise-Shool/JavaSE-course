@@ -7,7 +7,8 @@
 - <a href="http://www.codenet.ru/progr/vbasic/vb_db/1.php">Введение в базы данных</a>
 - <a href="http://habrahabr.ru/post/103021/">Реляционные базы vs NoSQL</a>. SQL. Денормализация. PK, FK, Cascade
 - <a href="https://ru.wikipedia.org/wiki/PostgreSQL">PostgreSQL. Надёжность</a>
-- Создание базы резюме. <a href="https://www.jetbrains.com/datagrip/features/">IDEA Database tools</a>.
+- Создание базы резюме. <a href="https://habrahabr.ru/company/JetBrains/blog/204064/">Работа с базами данных из IDEA</a>
+- <a href="https://www.jetbrains.com/datagrip/features/">IDEA Database tools</a>.
   
 ### Конфигурирование данных в Java проекте
 - <a href="https://www.mkyong.com/java/java-properties-file-examples/">Properties sample</a>
