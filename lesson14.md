@@ -19,6 +19,8 @@
 ```
 <user username="tomcat" password="tomcat" roles="tomcat,manager-gui,admin-gui"/>
 ```
+- Запуск из `TOMCAT_HOME\bin\`: `catalina.bat start`
+ 
 ## Домашнее задание HW14
 - Закончить реализацию `SqlStorage` с контактами
 - Добавить `TextSection` в базу данных (`init_db.sql`) и `SqlStorage`.
