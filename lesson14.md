@@ -13,7 +13,12 @@
 - Добавляем в `SqlStorage` транзакции
 - Batch execute.
 
- ## Домашнее задание HW14
-
-- Добавить `TextSection` в `init_db.sql` и `SqlStorage`.
+### Установка/запуск Tomcat
 - Скачать и установить <a href="http://tomcat.apache.org/download-80.cgi">Tomcat 8</a>. Устанавливать лучше простым копированием из архива в каталог (в том числе и для unix). Следите чтобы в пути не было пробелов и национальных букв.
+- Для доступа к <a href="http://localhost:8080/manager">Tomсat Manager</a> добавьте в конфигурацию Tomcat `TOMCAT_HOME\conf\tomcat-users.xml` права:
+```
+<user username="tomcat" password="tomcat" roles="tomcat,manager-gui,admin-gui"/>
+```
+## Домашнее задание HW14
+- Закончить реализацию `SqlStorage` с контактами
+- Добавить `TextSection` в базу данных (`init_db.sql`) и `SqlStorage`.
