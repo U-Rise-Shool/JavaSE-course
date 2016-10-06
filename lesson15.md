@@ -7,7 +7,7 @@
 - Добавление в проект Web Facet. web.xml. Постороение/cтруктура WAR. Статические ресурсы.
 - Настройка и деплой в Tomcat. Tomcat manager.
 - Запуск Tomcat из IDEA. Динамическое обновление без передеплоя.
-- <a href="http://devcolibri.com/4284">Создаем Servlet</a>. <a href="http://www.webremeslo.ru/html/glava4.html">HTML таблицы</a>
+- <a href="http://devcolibri.com/4284">Создаем Servlet</a>. Параметры. Кодировка. 
 - Дополнительно:
     - <a href="http://stackoverflow.com/questions/3106452/how-do-servlets-work-instantiation-shared-variables-and-multithreading">How do servlets work?</a>
     - <a href="http://www.intuit.ru/studies/courses/569/425/lecture/9683">Язык программирования Java и среда NetBeans: Введение в сетевое программирование</a>
@@ -20,3 +20,4 @@
 ## Домашнее задание HW15
 - Добавить в реализацию `SqlStorage` секции (кроме `OrganizationSection`)
 - Сделать отображение одного резюме или таблицы резюме в сервлете (в зависимости от присутствия параметра uuid).
+  - <a href="http://www.webremeslo.ru/html/glava4.html">HTML таблицы</a>
