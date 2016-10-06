@@ -1,4 +1,4 @@
-# <a href="http://java.u-rise.com/">U-Rise. Онлайн Курс по Java SE</a>.
+
 # Четырнадцатое занятие
 
 ### Разбор HW13

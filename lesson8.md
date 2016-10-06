@@ -1,4 +1,4 @@
-# <a href="http://java.u-rise.com/">U-Rise. Онлайн Курс по Java SE</a>.
+
 # Восьмое занятие
 
 ## Разбор Домашнего Задания-7: объектная модель <a href="http://u-rise.com/teacherofjava.pdf">резюме</a>
