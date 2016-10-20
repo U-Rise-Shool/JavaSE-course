@@ -2,11 +2,13 @@
 
 ### Разбор HW14
 
-### HTML</a>
+### HTML, Tomcat
 - <a href="http://java-course.ru/student/book1/servlet/">Протокол HTTP</a>. Смотрим <a href="http://topjava.herokuapp.com/">демо приложение<a/> в Chrome -> Инструменты разработчика
 - Добавление в проект Web Facet. web.xml. Постороение/cтруктура WAR. Статические ресурсы.
 - Настройка и деплой в Tomcat. Tomcat manager.
 - Запуск Tomcat из IDEA. Динамическое обновление без передеплоя.
+
+### Сервлеты
 - <a href="http://devcolibri.com/4284">Создаем Servlet</a>. Параметры. Кодировка. 
 - Дополнительно:
     - <a href="http://stackoverflow.com/questions/3106452/how-do-servlets-work-instantiation-shared-variables-and-multithreading">How do servlets work?</a>
