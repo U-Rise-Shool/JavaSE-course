@@ -13,5 +13,7 @@
 - <a href="https://habrahabr.ru/post/308104/">Из юниоров в разработчики: получаем первую работу</a>
 - <a href="http://zeroturnaround.com/rebellabs/java-tools-and-technologies-landscape-for-2014/">Java Tools and Technologies Landscape for 2014</a>
 - <a href="http://zeroturnaround.com/rebellabs/java-tools-and-technologies-landscape-2016/">Java Tools and Technologies Landscape Report 2016</a>
+- <a href="https://github.com/spring-projects/spring-petclinic">Spring PetClinic Sample Application </a>
+- <a href="http://petclinic.cloudapp.net/">Demo</a>
 - <a href="https://github.com/JavaOPs/topjava">Java Enterprise: Вводное занятие</a>
 - <a href="http://topjava.herokuapp.com/">Demo приложение</a>
