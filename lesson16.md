@@ -6,7 +6,7 @@
 - <a href="http://tomcat-configure.blogspot.ru/2009/01/tomcat-maxthreads-configuration.html">Tomcat maxThreads configuration</a>
 
 ### JSP
-- <a href="http://java-course.ru/student/book1/jsp/">JSP</a>
+- <a href="http://java-course.ru/student/book1/jsp/">Что такое JSP</a>. <a href="https://ru.wikipedia.org/wiki/JSP">JSP</a>
 - <a href="https://www.hscripts.com/tutorials/jsp/variables.php">Predefined Variables in JSP</a>
 - <a href="http://www.javaportal.ru/java/articles/Java_Server_Pages.html">Стандартные элементы action</a>
 - <a href="http://stackoverflow.com/questions/4764405/how-to-use-relative-paths-without-including-the-context-root-name">How to use relative paths in JSP</a>
