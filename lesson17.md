@@ -1,6 +1,7 @@
 # Семнадцатое занятие
 
 ### Разбор HW16
+- <a href="http://www.techrepublic.com/article/an-introduction-to-jsp-20s-tag-files/">An introduction to JSP 2.0's tag files</a>
 
 ### Деплой в Heroku
 - <a href="https://devcenter.heroku.com/articles/war-deployment#deployment-with-the-heroku-cli">Deployment with the Heroku CLI</a>
