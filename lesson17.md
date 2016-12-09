@@ -8,6 +8,7 @@
 
 ### Classloader
 - <a href="https://habrahabr.ru/post/103830/">Загрузка классов в Java</a>
+- <a href="https://blogs.oracle.com/vmrobot/entry/основы_динамической_загрузки_классов_в">Основы динамической загрузки классов в Java</a>
 - <a href="https://tomcat.apache.org/tomcat-8.0-doc/class-loader-howto.html">Apache Tomcat Class Loader</a>
 
 ## Java Enterprise
