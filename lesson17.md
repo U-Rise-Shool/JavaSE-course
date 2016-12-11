@@ -12,7 +12,7 @@
 - <a href="https://tomcat.apache.org/tomcat-8.0-doc/class-loader-howto.html">Apache Tomcat Class Loader</a>
 
 ## Java Enterprise
-- <a href="https://habrahabr.ru/post/308104/">Из юниоров в разработчики: получаем первую работу</a>
+- <a href="https://goo.gl/XNVOj4">Слайды презентации</a>
 - <a href="http://zeroturnaround.com/rebellabs/java-tools-and-technologies-landscape-for-2014/">Java Tools and Technologies Landscape for 2014</a>
 - <a href="http://zeroturnaround.com/rebellabs/java-tools-and-technologies-landscape-2016/">Java Tools and Technologies Landscape Report 2016</a>
 
@@ -22,5 +22,6 @@
 - <a href="https://speakerdeck.com/michaelisvy/spring-petclinic-sample-application">Presentation</a>
 
 #### Java Enterprise project Topjava
-- <a href="https://github.com/JavaOPs/topjava">Java Enterprise: Вводное занятие</a>
+- <a href="http://javawebinar.ru/topjava?getentrance&ch=urise">Получить ссылку на бесплатное вводное занятие</a>
 - <a href="http://topjava.herokuapp.com/">Demo приложение</a>
+- <a href="https://habrahabr.ru/post/308104/">Из юниоров в разработчики: получаем первую работу</a>
