@@ -11,11 +11,11 @@
 ### Деплой в Heroku
 - <a href="https://devcenter.heroku.com/articles/getting-started-with-java">Getting Started on Heroku with Java</a> 
 - Download and Install Heroku CLI (Custom without git)
-- <a href="http://skipy-ru.livejournal.com/5343.html">Загрузка ресурсов в приложении</a>
 ```
 ssl=true
 sslfactory=org.postgresql.ssl.NonValidatingFactory
 ```
+- <a href="http://skipy-ru.livejournal.com/5343.html">Загрузка ресурсов в приложении</a>
 - <a href="https://devcenter.heroku.com/articles/war-deployment#deployment-with-the-heroku-cli">Deployment with the Heroku CLI</a>
 - <a href="https://resumesapp.herokuapp.com">Приложение на Heroku</a>
 
