@@ -13,6 +13,7 @@
 - <a href="https://devcenter.heroku.com/articles/getting-started-with-java">Getting Started on Heroku with Java</a> 
 - Download and Install Heroku CLI (Custom without git)
 - <a href="https://devcenter.heroku.com/articles/war-deployment#deployment-with-the-heroku-cli">Deployment with the Heroku CLI</a>
+- <a href="https://resumesapp.herokuapp.com">Приложение на Heroku</a>
 
 ## <a href="https://drive.google.com/file/d/0B9Ye2auQ_NsFY1ZDNXRCd1NCTG8">Осваиваем Java Enterprise. Трудоустройство. Ответы на вопросы</a>
 - <a href="https://goo.gl/XNVOj4">Слайды презентации</a>
